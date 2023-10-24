@@ -1,0 +1,1 @@
+{"uid":"295","username":"aaaaaa","isdefault":0,"bankaddress":"\u5e7f\u4e1c\u7701-\u5e7f\u5dde\u5e02","bankbranch":"\u5929\u671d\u94f6\u884c\u652f\u884c","bankcode":"\u4e2d\u56fd\u94f6\u884c","bankname":"\u4e2d\u56fd\u94f6\u884c","accountname":"\u8d75\u601d\u6210","banknumber":"622828222222222","date":"2019-11-02 15:14:05","state":1}

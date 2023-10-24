@@ -1,0 +1,1526 @@
+[ 2020-02-09T08:26:36+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002201s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005454s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.004046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009757s ]
+
+[ 2020-02-09T08:26:37+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002574s ]
+
+[ 2020-02-09T08:26:53+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002048s ]
+
+[ 2020-02-09T08:26:56+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002644s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002388s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002565s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005080s ]
+
+[ 2020-02-09T08:26:56+08:00 ] 127.0.0.1 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002501s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002906s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.003707s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006800s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000173s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.066582s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.066703s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002060s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002124s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002394s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002477s ]
+
+[ 2020-02-09T08:26:57+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002611s ]
+
+[ 2020-02-09T08:27:11+08:00 ] 127.0.0.1 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001991s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003016s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.003203s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006380s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000144s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021842s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021948s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003271s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003364s ]
+
+[ 2020-02-09T08:27:18+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001768s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003742s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.004880s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008864s ]
+
+[ 2020-02-09T08:27:18+08:00 ] 127.0.0.1 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001932s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003212s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.003166s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006568s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000164s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.054784s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.054958s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002704s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002798s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003782s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003891s ]
+
+[ 2020-02-09T08:27:19+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002805s ]
+
+[ 2020-02-09T08:27:29+08:00 ] 127.0.0.1 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001337s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002431s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002133s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004684s ]
+ERR: 1406:Data too long for column 'ip' at row 1
+ [ SQL语句 ] : INSERT INTO `caipiao_adminlog` (`userid`,`username`,`type`,`info`,`time`,`ip`,`iparea`) VALUES ('4','admin','login','登陆成功','1581208049','127.0.0.1','本机地址')
+ERR: 1406:Data too long for column 'ip' at row 1
+ [ SQL语句 ] : UPDATE `caipiao_adminsession` SET `ip`='127.0.0.1',`time`='1581208049',`sessionid`='78b8a590f1d6cebc9145b95d590c0d6c',`username`='admin' WHERE `userid` = 4
+ERR: 1406:Data too long for column 'loginip' at row 1
+ [ SQL语句 ] : UPDATE `caipiao_adminmember` SET `loginip`='127.0.0.1',`iparea`='本机地址',`logintime`='1581208049' WHERE `id` = 4
+
+[ 2020-02-09T08:27:30+08:00 ] 127.0.0.1 /Index.index.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002411s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002210s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004751s ]
+
+[ 2020-02-09T08:27:30+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001959s ]
+
+[ 2020-02-09T08:38:17+08:00 ] 127.0.0.1 /Index.index.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001528s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004103s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.003369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007721s ]
+
+[ 2020-02-09T08:38:25+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002348s ]
+
+[ 2020-02-09T08:38:26+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002501s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002127s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004775s ]
+
+[ 2020-02-09T08:38:26+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002034s ]
+
+[ 2020-02-09T08:42:02+08:00 ] 171.114.142.219 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001097s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002560s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005188s ]
+
+[ 2020-02-09T08:42:02+08:00 ] 171.114.142.219 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001752s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003021s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005551s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000090s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000247s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.076860s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.076962s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003493s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003559s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004043s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004177s ]
+
+[ 2020-02-09T08:42:13+08:00 ] 171.114.142.219 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001247s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004084s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006689s ]
+ERR: 1406:Data too long for column 'ip' at row 1
+ [ SQL语句 ] : INSERT INTO `caipiao_adminlog` (`userid`,`username`,`type`,`info`,`time`,`ip`,`iparea`) VALUES ('4','admin','login','登陆成功','1581208933','171.114.142.219','湖北省')
+ERR: 1406:Data too long for column 'ip' at row 1
+ [ SQL语句 ] : UPDATE `caipiao_adminsession` SET `ip`='171.114.142.219',`time`='1581208933',`sessionid`='b360b67c67169557c3403459e4745302',`username`='admin' WHERE `userid` = 4
+ERR: 1406:Data too long for column 'loginip' at row 1
+ [ SQL语句 ] : UPDATE `caipiao_adminmember` SET `loginip`='171.114.142.219',`iparea`='湖北省',`logintime`='1581208933' WHERE `id` = 4
+
+[ 2020-02-09T08:42:13+08:00 ] 171.114.142.219 /Index.index.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001041s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002325s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004928s ]
+
+[ 2020-02-09T08:42:18+08:00 ] 171.114.142.219 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002452s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003333s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.003573s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007079s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000137s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000424s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.038864s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039019s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002887s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002962s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002752s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002816s ]
+
+[ 2020-02-09T08:42:33+08:00 ] 171.114.142.219 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001154s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002385s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002455s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004976s ]
+ERR: 1406:Data too long for column 'ip' at row 1
+ [ SQL语句 ] : INSERT INTO `caipiao_adminlog` (`userid`,`username`,`type`,`info`,`time`,`ip`,`iparea`) VALUES ('4','admin','login','登陆成功','1581208952','171.114.142.219','湖北省')
+ERR: 1406:Data too long for column 'ip' at row 1
+ [ SQL语句 ] : UPDATE `caipiao_adminsession` SET `ip`='171.114.142.219',`time`='1581208952',`sessionid`='02b43483a51b37d520ff9059c08a41ef',`username`='admin' WHERE `userid` = 4
+ERR: 1406:Data too long for column 'loginip' at row 1
+ [ SQL语句 ] : UPDATE `caipiao_adminmember` SET `loginip`='171.114.142.219',`iparea`='湖北省',`logintime`='1581208952' WHERE `id` = 4
+
+[ 2020-02-09T08:42:33+08:00 ] 171.114.142.219 /Index.index.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001611s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003374s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002834s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006475s ]
+
+[ 2020-02-09T08:42:38+08:00 ] 171.114.142.219 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002555s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005625s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.004637s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010495s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000090s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000197s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.057459s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.057591s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004033s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004143s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004576s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004688s ]
+
+[ 2020-02-09T08:43:35+08:00 ] 171.114.142.219 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000952s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002388s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002415s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004934s ]
+ERR: 1406:Data too long for column 'ip' at row 1
+ [ SQL语句 ] : INSERT INTO `caipiao_adminlog` (`userid`,`username`,`type`,`info`,`time`,`ip`,`iparea`) VALUES ('4','admin2','login','登陆成功','1581209015','171.114.142.219','湖北省')
+ERR: 1406:Data too long for column 'ip' at row 1
+ [ SQL语句 ] : UPDATE `caipiao_adminsession` SET `ip`='171.114.142.219',`time`='1581209015',`sessionid`='ad6d8f23123f4f1fc987dede192a387a',`username`='admin2' WHERE `userid` = 4
+ERR: 1406:Data too long for column 'loginip' at row 1
+ [ SQL语句 ] : UPDATE `caipiao_adminmember` SET `loginip`='171.114.142.219',`iparea`='湖北省',`logintime`='1581209015' WHERE `id` = 4
+
+[ 2020-02-09T08:43:35+08:00 ] 171.114.142.219 /Index.index.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001023s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002836s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002072s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005039s ]
+
+[ 2020-02-09T08:43:40+08:00 ] 171.114.142.219 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001157s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002173s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002218s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004513s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000153s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032611s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032709s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002182s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002273s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002328s ]
+
+[ 2020-02-09T08:43:52+08:00 ] 171.114.142.219 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001109s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002497s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002785s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005435s ]
+ERR: 1406:Data too long for column 'ip' at row 1
+ [ SQL语句 ] : INSERT INTO `caipiao_adminlog` (`userid`,`username`,`type`,`info`,`time`,`ip`,`iparea`) VALUES ('4','admin2','login','登陆成功','1581209031','171.114.142.219','湖北省')
+ERR: 1406:Data too long for column 'ip' at row 1
+ [ SQL语句 ] : UPDATE `caipiao_adminsession` SET `ip`='171.114.142.219',`time`='1581209031',`sessionid`='172736d8173569ff0f6f236f3770e61b',`username`='admin2' WHERE `userid` = 4
+ERR: 1406:Data too long for column 'loginip' at row 1
+ [ SQL语句 ] : UPDATE `caipiao_adminmember` SET `loginip`='171.114.142.219',`iparea`='湖北省',`logintime`='1581209031' WHERE `id` = 4
+
+[ 2020-02-09T08:43:52+08:00 ] 171.114.142.219 /Index.index.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001261s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003076s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.007912s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011163s ]
+
+[ 2020-02-09T08:43:57+08:00 ] 171.114.142.219 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001496s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003429s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.003291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006895s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000182s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045204s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045380s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003659s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003743s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003201s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003395s ]
+
+[ 2020-02-09T08:45:10+08:00 ] 171.114.142.219 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001055s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002767s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002175s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005070s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000134s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046825s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046926s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002117s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002176s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002217s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002273s ]
+
+[ 2020-02-09T08:45:10+08:00 ] 171.114.142.219 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001405s ]
+
+[ 2020-02-09T08:45:20+08:00 ] 171.114.142.219 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001012s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002871s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005826s ]
+ERR: 1406:Data too long for column 'ip' at row 1
+ [ SQL语句 ] : INSERT INTO `caipiao_adminlog` (`userid`,`username`,`type`,`info`,`time`,`ip`,`iparea`) VALUES ('4','admin2','login','登陆成功','1581209120','171.114.142.219','湖北省')
+ERR: 1406:Data too long for column 'ip' at row 1
+ [ SQL语句 ] : UPDATE `caipiao_adminsession` SET `ip`='171.114.142.219',`time`='1581209120',`sessionid`='2a6083a61110dea0d9dd467b5f52c51c',`username`='admin2' WHERE `userid` = 4
+ERR: 1406:Data too long for column 'loginip' at row 1
+ [ SQL语句 ] : UPDATE `caipiao_adminmember` SET `loginip`='171.114.142.219',`iparea`='湖北省',`logintime`='1581209120' WHERE `id` = 4
+
+[ 2020-02-09T08:45:20+08:00 ] 171.114.142.219 /Index.index.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002002s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002712s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002168s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005013s ]
+
+[ 2020-02-09T08:45:26+08:00 ] 171.114.142.219 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002035s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002952s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002657s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005768s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000208s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039110s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039273s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002513s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002577s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003251s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003327s ]
+
+[ 2020-02-09T08:47:50+08:00 ] 171.114.142.219 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001457s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003632s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.003084s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006890s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000136s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045352s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045446s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002721s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002793s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002788s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002880s ]
+
+[ 2020-02-09T08:48:01+08:00 ] 171.114.142.219 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001316s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002633s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002238s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004998s ]
+ERR: 1406:Data too long for column 'ip' at row 1
+ [ SQL语句 ] : INSERT INTO `caipiao_adminlog` (`userid`,`username`,`type`,`info`,`time`,`ip`,`iparea`) VALUES ('4','admin','login','登陆成功','1581209281','171.114.142.219','湖北省')
+ERR: 1406:Data too long for column 'ip' at row 1
+ [ SQL语句 ] : UPDATE `caipiao_adminsession` SET `ip`='171.114.142.219',`time`='1581209281',`sessionid`='fbd2a49e5333e4356b8ce7f36e722552',`username`='admin' WHERE `userid` = 4
+ERR: 1406:Data too long for column 'loginip' at row 1
+ [ SQL语句 ] : UPDATE `caipiao_adminmember` SET `loginip`='171.114.142.219',`iparea`='湖北省',`logintime`='1581209281' WHERE `id` = 4
+
+[ 2020-02-09T08:48:01+08:00 ] 171.114.142.219 /Index.index.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001215s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002745s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002127s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005007s ]
+
+[ 2020-02-09T08:48:07+08:00 ] 171.114.142.219 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001628s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002943s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.003244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006347s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000090s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000206s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.043266s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043459s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002790s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002862s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003409s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003697s ]
+
+[ 2020-02-09T08:48:55+08:00 ] 171.114.142.219 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001110s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003024s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002863s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006027s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000169s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035407s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035580s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002860s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002931s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002337s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002393s ]
+
+[ 2020-02-09T08:49:00+08:00 ] 171.114.142.219 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001482s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002788s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.003476s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006447s ]
+
+[ 2020-02-09T08:49:02+08:00 ] 171.114.142.219 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002498s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001997s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004628s ]
+
+[ 2020-02-09T08:49:03+08:00 ] 171.114.142.219 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001465s ]
+
+[ 2020-02-09T08:49:08+08:00 ] 171.114.142.219 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001784s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004530s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.003501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008188s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000190s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046357s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046450s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002297s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002348s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003721s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003857s ]
+
+[ 2020-02-09T08:49:19+08:00 ] 171.114.142.219 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001225s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002870s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.003607s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006655s ]
+ERR: 1406:Data too long for column 'ip' at row 1
+ [ SQL语句 ] : INSERT INTO `caipiao_adminlog` (`userid`,`username`,`type`,`info`,`time`,`ip`,`iparea`) VALUES ('4','admin','login','登陆成功','1581209359','171.114.142.219','湖北省')
+ERR: 1406:Data too long for column 'ip' at row 1
+ [ SQL语句 ] : UPDATE `caipiao_adminsession` SET `ip`='171.114.142.219',`time`='1581209359',`sessionid`='78a9b3d84e4d0d55593019e9b076757b',`username`='admin' WHERE `userid` = 4
+ERR: 1406:Data too long for column 'loginip' at row 1
+ [ SQL语句 ] : UPDATE `caipiao_adminmember` SET `loginip`='171.114.142.219',`iparea`='湖北省',`logintime`='1581209359' WHERE `id` = 4
+
+[ 2020-02-09T08:49:19+08:00 ] 171.114.142.219 /Index.index.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002021s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002646s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005109s ]
+
+[ 2020-02-09T08:49:24+08:00 ] 171.114.142.219 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002117s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002514s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.003318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005990s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000169s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036734s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036850s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003062s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003141s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002862s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002927s ]
+
+[ 2020-02-09T08:51:20+08:00 ] 171.114.142.219 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001515s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004338s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.003525s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008066s ]
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000164s ]
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.081128s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.081246s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002121s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002179s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002331s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002396s ]
+
+[ 2020-02-09T08:51:29+08:00 ] 171.114.142.219 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002200s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004750s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.003794s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008766s ]
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000180s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036365s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036565s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003809s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003910s ]
+
+[ 2020-02-09T08:51:32+08:00 ] 171.114.142.219 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001859s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003717s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.003785s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007685s ]
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000184s ]
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.072917s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.073064s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003053s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003128s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003141s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003248s ]
+
+[ 2020-02-09T08:51:41+08:00 ] 171.114.142.219 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002839s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005604s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.004403s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010295s ]
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000200s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031314s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031471s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004860s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005023s ]
+
+[ 2020-02-09T08:51:44+08:00 ] 171.114.142.219 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001274s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.003858s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007084s ]
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000150s ]
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.079504s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.079606s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003182s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003295s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002700s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002780s ]
+
+[ 2020-02-09T08:52:20+08:00 ] 171.114.142.219 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001426s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002624s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002322s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005078s ]
+
+[ 2020-02-09T08:52:20+08:00 ] 171.114.142.219 /Index.index.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001722s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003036s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002684s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005869s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000147s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000355s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047505s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047618s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002552s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002613s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002603s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002669s ]
+
+[ 2020-02-09T08:52:20+08:00 ] 171.114.142.219 /Tongji.gaikuang.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002156s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005101s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007545s ]
+NOTIC: [8] Undefined variable: where D:\ww\admin\app\Admincenter\Controller\TongjiController.class.php 第 232 行.
+NOTIC: [8] Undefined index: touzhuall D:\ww\admin\app\Admincenter\Controller\TongjiController.class.php 第 256 行.
+NOTIC: [8] Undefined index: zhongjiangall D:\ww\admin\app\Admincenter\Controller\TongjiController.class.php 第 257 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000098s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000181s ]
+NOTIC: [8] Undefined variable: info D:\ww\admin\Runtime\Cache\Admincenter\759c46705abf5129023a1bd8578a4184.php 第 48 行.
+NOTIC: [8] Undefined variable: _sDate D:\ww\admin\Runtime\Cache\Admincenter\759c46705abf5129023a1bd8578a4184.php 第 49 行.
+NOTIC: [8] Undefined variable: _eDate D:\ww\admin\Runtime\Cache\Admincenter\759c46705abf5129023a1bd8578a4184.php 第 49 行.
+NOTIC: [8] Undefined variable: username D:\ww\admin\Runtime\Cache\Admincenter\759c46705abf5129023a1bd8578a4184.php 第 51 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028530s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028636s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002776s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002855s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002194s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002250s ]
+
+[ 2020-02-09T08:52:23+08:00 ] 171.114.142.219 /System.setting.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001757s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002358s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002119s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004600s ]
+NOTIC: [2048] Declaration of Admincenter\Controller\SystemController::theme() should be compatible with Think\Controller::theme($theme) D:\ww\admin\app\Admincenter\Controller\SystemController.class.php 第 4 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000185s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000268s ]
+NOTIC: [8] Undefined index: webisopen D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 67 行.
+NOTIC: [8] Undefined index: webisopen D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 68 行.
+NOTIC: [8] Undefined index: webcloseinfo D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 75 行.
+NOTIC: [8] Undefined index: switchbuy D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 82 行.
+NOTIC: [8] Undefined index: switchbuy D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 83 行.
+NOTIC: [8] Undefined index: switchdlbuy D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 90 行.
+NOTIC: [8] Undefined index: switchdlbuy D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 91 行.
+NOTIC: [8] Undefined index: switchzdbuy D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 98 行.
+NOTIC: [8] Undefined index: switchzdbuy D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 99 行.
+NOTIC: [8] Undefined index: recharge D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 106 行.
+NOTIC: [8] Undefined index: recharge D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 107 行.
+NOTIC: [8] Undefined index: yuanmoshi D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 114 行.
+NOTIC: [8] Undefined index: jiaomoshi D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 115 行.
+NOTIC: [8] Undefined index: fenmoshi D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 116 行.
+NOTIC: [8] Undefined index: limoshi D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 117 行.
+NOTIC: [8] Undefined index: touzhuMax D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 141 行.
+NOTIC: [8] Undefined index: zhongjiangMax D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 142 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040157s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040233s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002393s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002450s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002560s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002619s ]
+
+[ 2020-02-09T08:52:30+08:00 ] 171.114.142.219 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001628s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003244s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002581s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005998s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002483s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002641s ]
+
+[ 2020-02-09T08:52:32+08:00 ] 171.114.142.219 /System.settingdo.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001102s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002363s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.003181s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005739s ]
+NOTIC: [2048] Declaration of Admincenter\Controller\SystemController::theme() should be compatible with Think\Controller::theme($theme) D:\ww\admin\app\Admincenter\Controller\SystemController.class.php 第 4 行.
+NOTIC: [8] Undefined index: webtitle D:\ww\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: keywords D:\ww\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: description D:\ww\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: fanDianMin D:\ww\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: sysBankMaxNum D:\ww\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: ritikuanxiane D:\ww\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: tikuanstart D:\ww\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: tikuanend D:\ww\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: tikuannumoverbilv D:\ww\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: tikuannumovermin D:\ww\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: tikuannumovermax D:\ww\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: kefuqq D:\ww\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: kefuthree D:\ww\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: islogincode D:\ww\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: isemailcode D:\ww\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: getemailcode D:\ww\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: loginerrornum_q D:\ww\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: loginerrorclosetime_q D:\ww\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: ipblackisopen D:\ww\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: ipblacklist D:\ww\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: ipwhiteisopen D:\ww\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: ipwhitelist D:\ww\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: SMTP_HOST D:\ww\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: SMTP_SSL D:\ww\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: SMTP_PORT D:\ww\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: FROM_EMAIL D:\ww\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: SMTP_USER D:\ww\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: FROM_NAME D:\ww\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: REPLY_EMAIL D:\ww\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: REPLY_NAME D:\ww\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: SMTP_PASS D:\ww\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: caijieapiurl D:\ww\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: weballowips D:\ww\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: czaudioplay D:\ww\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: czaudioplaytime D:\ww\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: czaudioqxtime D:\ww\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: tkaudioplay D:\ww\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: tkaudioplaytime D:\ww\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: cardaudioplay D:\ww\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: defaulttjcode D:\ww\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+
+[ 2020-02-09T08:52:34+08:00 ] 171.114.142.219 /System.setting.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002908s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002189s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005231s ]
+NOTIC: [2048] Declaration of Admincenter\Controller\SystemController::theme() should be compatible with Think\Controller::theme($theme) D:\ww\admin\app\Admincenter\Controller\SystemController.class.php 第 4 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000246s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000345s ]
+NOTIC: [8] Undefined index: webisopen D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 67 行.
+NOTIC: [8] Undefined index: webisopen D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 68 行.
+NOTIC: [8] Undefined index: webcloseinfo D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 75 行.
+NOTIC: [8] Undefined index: switchbuy D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 82 行.
+NOTIC: [8] Undefined index: switchbuy D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 83 行.
+NOTIC: [8] Undefined index: switchdlbuy D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 90 行.
+NOTIC: [8] Undefined index: switchdlbuy D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 91 行.
+NOTIC: [8] Undefined index: switchzdbuy D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 98 行.
+NOTIC: [8] Undefined index: switchzdbuy D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 99 行.
+NOTIC: [8] Undefined index: recharge D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 106 行.
+NOTIC: [8] Undefined index: recharge D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 107 行.
+NOTIC: [8] Undefined index: yuanmoshi D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 114 行.
+NOTIC: [8] Undefined index: jiaomoshi D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 115 行.
+NOTIC: [8] Undefined index: fenmoshi D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 116 行.
+NOTIC: [8] Undefined index: limoshi D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 117 行.
+NOTIC: [8] Undefined index: touzhuMax D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 141 行.
+NOTIC: [8] Undefined index: zhongjiangMax D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 142 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037970s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038041s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002646s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002711s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002372s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002434s ]
+
+[ 2020-02-09T08:52:41+08:00 ] 171.114.142.219 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001399s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004067s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.006529s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010786s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002883s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002957s ]
+
+[ 2020-02-09T08:52:51+08:00 ] 171.114.142.219 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002609s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004921s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002928s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010334s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002588s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002712s ]
+
+[ 2020-02-09T08:53:01+08:00 ] 171.114.142.219 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001532s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003148s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002584s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005911s ]
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003859s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003974s ]
+
+[ 2020-02-09T08:53:11+08:00 ] 171.114.142.219 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002457s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004792s ]
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\ww\admin\Core\Library\Think\Db\Driver.class.php 第 113 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002808s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002885s ]
+
+[ 2020-02-09T08:53:21+08:00 ] 171.114.142.219 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001252s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002335s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002238s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004714s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003710s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003866s ]
+
+[ 2020-02-09T08:53:31+08:00 ] 171.114.142.219 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001235s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002440s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004948s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002920s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003026s ]
+
+[ 2020-02-09T08:53:41+08:00 ] 171.114.142.219 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008295s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010937s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005774s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006044s ]
+
+[ 2020-02-09T09:25:28+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002751s ]
+
+[ 2020-02-09T09:25:29+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002419s ]
+
+[ 2020-02-09T09:25:29+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001585s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002703s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002894s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005762s ]
+
+[ 2020-02-09T09:25:30+08:00 ] 127.0.0.1 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001352s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004017s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.004345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008559s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000154s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.077362s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.077456s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002157s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002209s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002239s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002296s ]
+
+[ 2020-02-09T09:25:30+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001158s ]
+
+[ 2020-02-09T09:25:58+08:00 ] 127.0.0.1 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003436s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006095s ]
+
+[ 2020-02-09T09:25:58+08:00 ] 127.0.0.1 /Index.index.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001089s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002814s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002605s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005540s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000139s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000210s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050343s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050538s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008741s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008821s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003769s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004014s ]
+
+[ 2020-02-09T09:25:59+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002983s ]
+
+[ 2020-02-09T09:25:59+08:00 ] 127.0.0.1 /Tongji.gaikuang.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009481s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.010667s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.020401s ]
+NOTIC: [8] Undefined variable: where D:\ww\admin\app\Admincenter\Controller\TongjiController.class.php 第 232 行.
+NOTIC: [8] Undefined index: touzhuall D:\ww\admin\app\Admincenter\Controller\TongjiController.class.php 第 256 行.
+NOTIC: [8] Undefined index: zhongjiangall D:\ww\admin\app\Admincenter\Controller\TongjiController.class.php 第 257 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000118s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000206s ]
+NOTIC: [8] Undefined variable: info D:\ww\admin\Runtime\Cache\Admincenter\759c46705abf5129023a1bd8578a4184.php 第 48 行.
+NOTIC: [8] Undefined variable: _sDate D:\ww\admin\Runtime\Cache\Admincenter\759c46705abf5129023a1bd8578a4184.php 第 49 行.
+NOTIC: [8] Undefined variable: _eDate D:\ww\admin\Runtime\Cache\Admincenter\759c46705abf5129023a1bd8578a4184.php 第 49 行.
+NOTIC: [8] Undefined variable: username D:\ww\admin\Runtime\Cache\Admincenter\759c46705abf5129023a1bd8578a4184.php 第 51 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036914s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037037s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004279s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004446s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007702s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007775s ]
+
+[ 2020-02-09T09:26:10+08:00 ] 127.0.0.1 /System.setting.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001124s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008116s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002948s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011218s ]
+NOTIC: [2048] Declaration of Admincenter\Controller\SystemController::theme() should be compatible with Think\Controller::theme($theme) D:\ww\admin\app\Admincenter\Controller\SystemController.class.php 第 4 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000219s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000333s ]
+NOTIC: [8] Undefined index: webisopen D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 67 行.
+NOTIC: [8] Undefined index: webisopen D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 68 行.
+NOTIC: [8] Undefined index: webcloseinfo D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 75 行.
+NOTIC: [8] Undefined index: switchbuy D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 82 行.
+NOTIC: [8] Undefined index: switchbuy D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 83 行.
+NOTIC: [8] Undefined index: switchdlbuy D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 90 行.
+NOTIC: [8] Undefined index: switchdlbuy D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 91 行.
+NOTIC: [8] Undefined index: switchzdbuy D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 98 行.
+NOTIC: [8] Undefined index: switchzdbuy D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 99 行.
+NOTIC: [8] Undefined index: recharge D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 106 行.
+NOTIC: [8] Undefined index: recharge D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 107 行.
+NOTIC: [8] Undefined index: yuanmoshi D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 114 行.
+NOTIC: [8] Undefined index: jiaomoshi D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 115 行.
+NOTIC: [8] Undefined index: fenmoshi D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 116 行.
+NOTIC: [8] Undefined index: limoshi D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 117 行.
+NOTIC: [8] Undefined index: touzhuMax D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 141 行.
+NOTIC: [8] Undefined index: zhongjiangMax D:\ww\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 142 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.038349s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038437s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002595s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002654s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002480s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002547s ]
+
+[ 2020-02-09T09:26:10+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001803s ]
+
+[ 2020-02-09T09:26:14+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002073s ]
+
+[ 2020-02-09T09:26:15+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001057s ]
+
+[ 2020-02-09T09:26:23+08:00 ] 127.0.0.1 /Caipiao.wanfa.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001783s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007665s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002585s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010402s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000342s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000418s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.151449s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.151551s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002710s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002771s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002802s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002942s ]
+
+[ 2020-02-09T09:26:26+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005944s ]
+
+[ 2020-02-09T09:26:31+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001615s ]
+
+[ 2020-02-09T10:01:17+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001654s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004079s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006542s ]
+
+[ 2020-02-09T10:01:17+08:00 ] 127.0.0.1 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001099s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002325s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004481s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000156s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.097965s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.098060s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002417s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002516s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002635s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002705s ]
+
+[ 2020-02-09T10:01:17+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001884s ]
+
+[ 2020-02-09T10:01:18+08:00 ] 127.0.0.1 /browserconfig.xml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001241s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002451s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002084s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004673s ]
+ERR: 无法加载控制器:Browserconfig
+
+[ 2020-02-09T10:01:33+08:00 ] 127.0.0.1 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001839s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002993s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002824s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005974s ]
+
+[ 2020-02-09T10:01:33+08:00 ] 127.0.0.1 /Index.index.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001107s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003130s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.003166s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006467s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000161s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000262s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.044637s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044741s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002489s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002551s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003032s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003115s ]
+
+[ 2020-02-09T10:01:34+08:00 ] 127.0.0.1 /Tongji.gaikuang.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005875s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.004122s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010239s ]
+NOTIC: [8] Undefined variable: where D:\ww\admin\app\Admincenter\Controller\TongjiController.class.php 第 232 行.
+NOTIC: [8] Undefined index: touzhuall D:\ww\admin\app\Admincenter\Controller\TongjiController.class.php 第 256 行.
+NOTIC: [8] Undefined index: zhongjiangall D:\ww\admin\app\Admincenter\Controller\TongjiController.class.php 第 257 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000154s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000264s ]
+NOTIC: [8] Undefined variable: info D:\ww\admin\Runtime\Cache\Admincenter\759c46705abf5129023a1bd8578a4184.php 第 48 行.
+NOTIC: [8] Undefined variable: _sDate D:\ww\admin\Runtime\Cache\Admincenter\759c46705abf5129023a1bd8578a4184.php 第 49 行.
+NOTIC: [8] Undefined variable: _eDate D:\ww\admin\Runtime\Cache\Admincenter\759c46705abf5129023a1bd8578a4184.php 第 49 行.
+NOTIC: [8] Undefined variable: username D:\ww\admin\Runtime\Cache\Admincenter\759c46705abf5129023a1bd8578a4184.php 第 51 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040447s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040532s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006446s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006571s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005437s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005553s ]
+
+[ 2020-02-09T10:01:34+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001542s ]
+
+[ 2020-02-09T10:01:56+08:00 ] 127.0.0.1 /Game.checkerrorder.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001295s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003288s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.007318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010755s ]
+NOTIC: [8] Undefined variable: shownum D:\ww\admin\app\Admincenter\Controller\GameController.class.php 第 247 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000119s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000221s ]
+NOTIC: [8] Undefined variable: cpname D:\ww\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\ww\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\ww\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\ww\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\ww\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\ww\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\ww\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\ww\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\ww\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\ww\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\ww\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\ww\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\ww\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\ww\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\ww\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\ww\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\ww\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\ww\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\ww\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\ww\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\ww\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\ww\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\ww\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\ww\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\ww\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\ww\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\ww\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\ww\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\ww\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\ww\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\ww\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\ww\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\ww\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: username D:\ww\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 41 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.044141s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044220s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002588s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002644s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002727s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002788s ]
+
+[ 2020-02-09T10:08:54+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001371s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002965s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002608s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005703s ]
+
+[ 2020-02-09T10:08:54+08:00 ] 127.0.0.1 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001262s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003504s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002686s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006349s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000166s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.056426s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.056523s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002258s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002318s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003983s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004122s ]
+
+[ 2020-02-09T10:09:13+08:00 ] 127.0.0.1 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001275s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003948s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.006888s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011020s ]
+
+[ 2020-02-09T10:09:14+08:00 ] 127.0.0.1 /Index.index.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001425s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003326s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.003167s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006668s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000143s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000216s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.054333s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.054436s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003531s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003780s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003564s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003675s ]
+
+[ 2020-02-09T10:09:14+08:00 ] 127.0.0.1 /Tongji.gaikuang.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001099s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002660s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.005098s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007929s ]
+NOTIC: [8] Undefined variable: where D:\ww\admin\app\Admincenter\Controller\TongjiController.class.php 第 232 行.
+NOTIC: [8] Undefined index: touzhuall D:\ww\admin\app\Admincenter\Controller\TongjiController.class.php 第 256 行.
+NOTIC: [8] Undefined index: zhongjiangall D:\ww\admin\app\Admincenter\Controller\TongjiController.class.php 第 257 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000114s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000182s ]
+NOTIC: [8] Undefined variable: info D:\ww\admin\Runtime\Cache\Admincenter\759c46705abf5129023a1bd8578a4184.php 第 48 行.
+NOTIC: [8] Undefined variable: _sDate D:\ww\admin\Runtime\Cache\Admincenter\759c46705abf5129023a1bd8578a4184.php 第 49 行.
+NOTIC: [8] Undefined variable: _eDate D:\ww\admin\Runtime\Cache\Admincenter\759c46705abf5129023a1bd8578a4184.php 第 49 行.
+NOTIC: [8] Undefined variable: username D:\ww\admin\Runtime\Cache\Admincenter\759c46705abf5129023a1bd8578a4184.php 第 51 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035193s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035376s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006731s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006833s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006785s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006887s ]
+

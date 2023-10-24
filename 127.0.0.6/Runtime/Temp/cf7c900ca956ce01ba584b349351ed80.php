@@ -1,0 +1,3 @@
+<?php
+//000000000180a:17:{s:2:"id";s:3:"117";s:6:"typeid";s:3:"lhc";s:5:"title";s:15:"幸运六合彩";s:6:"ftitle";s:11:"2分钟1期";s:9:"firsttime";s:0:"";s:7:"endtime";s:0:"";s:5:"qishu";s:1:"0";s:4:"name";s:5:"dflhc";s:5:"ftime";s:2:"10";s:6:"isopen";s:1:"1";s:5:"issys";s:1:"1";s:10:"closetime1";s:8:"00:01:00";s:10:"closetime2";s:8:"23:58:00";s:10:"expecttime";s:1:"2";s:4:"iswh";s:1:"0";s:7:"allsort";s:2:"13";s:9:"listorder";s:3:"117";}
+?>

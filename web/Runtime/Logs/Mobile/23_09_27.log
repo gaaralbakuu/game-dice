@@ -1,0 +1,1133 @@
+[ 2023-09-27T06:28:26+08:00 ] 125.235.61.149 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000313s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000204s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000569s ]
+NOTIC: [8] Undefined index: userinfo C:\dev\web\app\Mobile\Controller\CommonController.class.php 第 6 行.
+NOTIC: [2] Creating default object from empty value C:\dev\web\app\Common\Common\function.php 第 493 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 43 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 44 行.
+NOTIC: [8] Undefined variable: bankpaylists C:\dev\web\app\Api\Controller\LotteryController.class.php 第 152 行.
+NOTIC: [8] Undefined index: expect C:\dev\web\app\Mobile\Controller\CommonController.class.php 第 77 行.
+NOTIC: [8] Undefined index: opencode C:\dev\web\app\Mobile\Controller\CommonController.class.php 第 78 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 43 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 44 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 10 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 7 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 7 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 7 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 5 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 9 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 2 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 8 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 13 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 2 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 7 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 4 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 11 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 2 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 14 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 10 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 5 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 11 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 2 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 5 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 5 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 11 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 7 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 2 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 4 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 12 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 5 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 2 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000274s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000313s ]
+NOTIC: [8] Use of undefined constant title - assumed 'title' C:\dev\web\Runtime\Cache\Mobile\c5d11212ea1bbb6219d4c6c45b19408a.php 第 183 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.105770s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.105818s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000307s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000353s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000376s ]
+
+[ 2023-09-27T06:28:27+08:00 ] 125.235.61.149 /Apijiekou.getLottery
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000192s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000510s ]
+NOTIC: [2048] Declaration of Mobile\Controller\ApijiekouController::getLottery() should be compatible with Common\Controller\ApijiekouController::getLottery($apiparam = Array) C:\dev\web\app\Mobile\Controller\ApijiekouController.class.php 第 5 行.
+NOTIC: [2048] Declaration of Mobile\Controller\ApijiekouController::getLotterycode() should be compatible with Common\Controller\ApijiekouController::getLotterycode($apiparam = Array) C:\dev\web\app\Mobile\Controller\ApijiekouController.class.php 第 5 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 43 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 44 行.
+NOTIC: [2] array_merge(): Argument #2 is not an array C:\dev\web\app\Mobile\Controller\ApijiekouController.class.php 第 68 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\dev\web\app\Mobile\Controller\ApijiekouController.class.php 第 71 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000271s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000297s ]
+
+[ 2023-09-27T06:28:27+08:00 ] 125.235.61.149 /Apijiekou.checkislogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000198s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000255s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000168s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000460s ]
+NOTIC: [2048] Declaration of Mobile\Controller\ApijiekouController::getLottery() should be compatible with Common\Controller\ApijiekouController::getLottery($apiparam = Array) C:\dev\web\app\Mobile\Controller\ApijiekouController.class.php 第 5 行.
+NOTIC: [2048] Declaration of Mobile\Controller\ApijiekouController::getLotterycode() should be compatible with Common\Controller\ApijiekouController::getLotterycode($apiparam = Array) C:\dev\web\app\Mobile\Controller\ApijiekouController.class.php 第 5 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 43 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 44 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000260s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000280s ]
+
+[ 2023-09-27T07:59:43+08:00 ] 66.249.70.96 /Game.k3.code.ahk3.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000276s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000190s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000506s ]
+NOTIC: [8] Undefined index: userinfo C:\dev\web\app\Mobile\Controller\CommonController.class.php 第 6 行.
+NOTIC: [2] Creating default object from empty value C:\dev\web\app\Common\Common\function.php 第 493 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 43 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 44 行.
+NOTIC: [8] Undefined variable: bankpaylists C:\dev\web\app\Api\Controller\LotteryController.class.php 第 152 行.
+NOTIC: [8] Undefined index: expect C:\dev\web\app\Mobile\Controller\CommonController.class.php 第 77 行.
+NOTIC: [8] Undefined index: opencode C:\dev\web\app\Mobile\Controller\CommonController.class.php 第 78 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 43 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 44 行.
+
+[ 2023-09-27T07:59:43+08:00 ] 66.249.70.96 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000309s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000205s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000563s ]
+NOTIC: [8] Undefined index: userinfo C:\dev\web\app\Mobile\Controller\CommonController.class.php 第 6 行.
+NOTIC: [2] Creating default object from empty value C:\dev\web\app\Common\Common\function.php 第 493 行.
+NOTIC: [8] Undefined index: expect C:\dev\web\app\Mobile\Controller\CommonController.class.php 第 77 行.
+NOTIC: [8] Undefined index: opencode C:\dev\web\app\Mobile\Controller\CommonController.class.php 第 78 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 43 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 44 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\app\Mobile\Controller\PublicController.class.php 第 16 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000130s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000171s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.055222s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.055265s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000234s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000256s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000329s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000353s ]
+
+[ 2023-09-27T08:25:13+08:00 ] 47.92.73.109 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000280s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000192s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000515s ]
+NOTIC: [8] Undefined index: userinfo C:\dev\web\app\Mobile\Controller\CommonController.class.php 第 6 行.
+NOTIC: [2] Creating default object from empty value C:\dev\web\app\Common\Common\function.php 第 493 行.
+
+[ 2023-09-27T08:25:13+08:00 ] 47.92.73.109 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000245s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000164s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000449s ]
+NOTIC: [8] Undefined index: userinfo C:\dev\web\app\Mobile\Controller\CommonController.class.php 第 6 行.
+NOTIC: [2] Creating default object from empty value C:\dev\web\app\Common\Common\function.php 第 493 行.
+
+[ 2023-09-27T08:27:32+08:00 ] 38.6.183.58 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000226s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000273s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000190s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000504s ]
+NOTIC: [8] Undefined index: userinfo C:\dev\web\app\Mobile\Controller\CommonController.class.php 第 6 行.
+NOTIC: [2] Creating default object from empty value C:\dev\web\app\Common\Common\function.php 第 493 行.
+NOTIC: [8] Undefined index: expect C:\dev\web\app\Mobile\Controller\CommonController.class.php 第 77 行.
+NOTIC: [8] Undefined index: opencode C:\dev\web\app\Mobile\Controller\CommonController.class.php 第 78 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 43 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 44 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 14 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 14 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 5 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 10 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 12 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 7 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 2 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 10 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 4 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 7 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 6 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 11 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 8 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 6 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 6 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 9 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 11 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 14 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 14 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 7 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 7 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 2 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 11 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 9 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 2 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 6 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000261s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000288s ]
+NOTIC: [8] Use of undefined constant title - assumed 'title' C:\dev\web\Runtime\Cache\Mobile\c5d11212ea1bbb6219d4c6c45b19408a.php 第 183 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.089797s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.089837s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000271s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000361s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000385s ]
+
+[ 2023-09-27T08:27:35+08:00 ] 38.6.183.58 /Apijiekou.getLottery
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000269s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000200s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000507s ]
+NOTIC: [2048] Declaration of Mobile\Controller\ApijiekouController::getLottery() should be compatible with Common\Controller\ApijiekouController::getLottery($apiparam = Array) C:\dev\web\app\Mobile\Controller\ApijiekouController.class.php 第 5 行.
+NOTIC: [2048] Declaration of Mobile\Controller\ApijiekouController::getLotterycode() should be compatible with Common\Controller\ApijiekouController::getLotterycode($apiparam = Array) C:\dev\web\app\Mobile\Controller\ApijiekouController.class.php 第 5 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 43 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 44 行.
+NOTIC: [2] array_merge(): Argument #2 is not an array C:\dev\web\app\Mobile\Controller\ApijiekouController.class.php 第 68 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\dev\web\app\Mobile\Controller\ApijiekouController.class.php 第 71 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000241s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000262s ]
+
+[ 2023-09-27T08:27:35+08:00 ] 38.6.183.58 /Apijiekou.checkislogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000247s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000163s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000447s ]
+NOTIC: [2048] Declaration of Mobile\Controller\ApijiekouController::getLottery() should be compatible with Common\Controller\ApijiekouController::getLottery($apiparam = Array) C:\dev\web\app\Mobile\Controller\ApijiekouController.class.php 第 5 行.
+NOTIC: [2048] Declaration of Mobile\Controller\ApijiekouController::getLotterycode() should be compatible with Common\Controller\ApijiekouController::getLotterycode($apiparam = Array) C:\dev\web\app\Mobile\Controller\ApijiekouController.class.php 第 5 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 43 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 44 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000254s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000276s ]
+
+[ 2023-09-27T08:27:42+08:00 ] 38.6.183.58 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000240s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000163s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000442s ]
+NOTIC: [8] Undefined index: userinfo C:\dev\web\app\Mobile\Controller\CommonController.class.php 第 6 行.
+NOTIC: [2] Creating default object from empty value C:\dev\web\app\Common\Common\function.php 第 493 行.
+NOTIC: [8] Undefined index: expect C:\dev\web\app\Mobile\Controller\CommonController.class.php 第 77 行.
+NOTIC: [8] Undefined index: opencode C:\dev\web\app\Mobile\Controller\CommonController.class.php 第 78 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 43 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 44 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 10 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 3 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 3 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 14 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 7 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 13 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 6 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 2 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 14 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 5 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 4 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 6 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 8 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 6 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 8 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 7 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 6 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 8 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 7 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 2 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 13 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 11 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 7 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 2 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000240s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000266s ]
+NOTIC: [8] Use of undefined constant title - assumed 'title' C:\dev\web\Runtime\Cache\Mobile\c5d11212ea1bbb6219d4c6c45b19408a.php 第 183 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.078034s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.078068s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000216s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000237s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000307s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000330s ]
+
+[ 2023-09-27T09:35:24+08:00 ] 120.35.11.210 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000271s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000190s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000501s ]
+NOTIC: [8] Undefined index: userinfo C:\dev\web\app\Mobile\Controller\CommonController.class.php 第 6 行.
+NOTIC: [2] Creating default object from empty value C:\dev\web\app\Common\Common\function.php 第 493 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 43 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 44 行.
+NOTIC: [8] Undefined variable: bankpaylists C:\dev\web\app\Api\Controller\LotteryController.class.php 第 152 行.
+NOTIC: [8] Undefined index: expect C:\dev\web\app\Mobile\Controller\CommonController.class.php 第 77 行.
+NOTIC: [8] Undefined index: opencode C:\dev\web\app\Mobile\Controller\CommonController.class.php 第 78 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 43 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 44 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 11 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 14 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 3 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 5 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 13 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 5 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 11 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 10 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 5 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 14 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 3 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 10 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 8 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 5 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 2 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 9 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 10 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 6 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 4 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 5 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 5 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 2 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 7 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 5 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 9 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000246s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000275s ]
+NOTIC: [8] Use of undefined constant title - assumed 'title' C:\dev\web\Runtime\Cache\Mobile\c5d11212ea1bbb6219d4c6c45b19408a.php 第 183 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.068600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.068647s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000361s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000383s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000410s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000435s ]
+
+[ 2023-09-27T10:01:19+08:00 ] 66.249.70.110 /Apijiekou.getLottery
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000237s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000210s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000551s ]
+NOTIC: [2048] Declaration of Mobile\Controller\ApijiekouController::getLottery() should be compatible with Common\Controller\ApijiekouController::getLottery($apiparam = Array) C:\dev\web\app\Mobile\Controller\ApijiekouController.class.php 第 5 行.
+NOTIC: [2048] Declaration of Mobile\Controller\ApijiekouController::getLotterycode() should be compatible with Common\Controller\ApijiekouController::getLotterycode($apiparam = Array) C:\dev\web\app\Mobile\Controller\ApijiekouController.class.php 第 5 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 43 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 44 行.
+NOTIC: [2] array_merge(): Argument #2 is not an array C:\dev\web\app\Mobile\Controller\ApijiekouController.class.php 第 68 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\dev\web\app\Mobile\Controller\ApijiekouController.class.php 第 71 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000286s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000307s ]
+
+[ 2023-09-27T10:01:20+08:00 ] 66.249.70.109 /Apijiekou.checkislogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000196s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000219s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000631s ]
+NOTIC: [2048] Declaration of Mobile\Controller\ApijiekouController::getLottery() should be compatible with Common\Controller\ApijiekouController::getLottery($apiparam = Array) C:\dev\web\app\Mobile\Controller\ApijiekouController.class.php 第 5 行.
+NOTIC: [2048] Declaration of Mobile\Controller\ApijiekouController::getLotterycode() should be compatible with Common\Controller\ApijiekouController::getLotterycode($apiparam = Array) C:\dev\web\app\Mobile\Controller\ApijiekouController.class.php 第 5 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 43 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 44 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000247s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000268s ]
+
+[ 2023-09-27T10:43:50+08:00 ] 66.249.70.110 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000379s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000227s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000675s ]
+NOTIC: [8] Undefined index: userinfo C:\dev\web\app\Mobile\Controller\CommonController.class.php 第 6 行.
+NOTIC: [2] Creating default object from empty value C:\dev\web\app\Common\Common\function.php 第 493 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 43 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 44 行.
+NOTIC: [8] Undefined variable: bankpaylists C:\dev\web\app\Api\Controller\LotteryController.class.php 第 152 行.
+NOTIC: [8] Undefined index: expect C:\dev\web\app\Mobile\Controller\CommonController.class.php 第 77 行.
+NOTIC: [8] Undefined index: opencode C:\dev\web\app\Mobile\Controller\CommonController.class.php 第 78 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 43 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 44 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 5 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 5 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 7 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 9 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 9 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 9 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 7 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 11 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 5 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 10 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 11 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 14 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 6 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 8 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 14 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 3 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 3 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 14 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 3 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 8 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 11 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 13 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 13 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 8 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000251s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000291s ]
+NOTIC: [8] Use of undefined constant title - assumed 'title' C:\dev\web\Runtime\Cache\Mobile\c5d11212ea1bbb6219d4c6c45b19408a.php 第 183 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.162191s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.162238s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.010891s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010914s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008145s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008173s ]
+
+[ 2023-09-27T11:22:39+08:00 ] 120.35.11.210 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000399s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000696s ]
+NOTIC: [8] Undefined index: userinfo C:\dev\web\app\Mobile\Controller\CommonController.class.php 第 6 行.
+NOTIC: [2] Creating default object from empty value C:\dev\web\app\Common\Common\function.php 第 493 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 43 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 44 行.
+NOTIC: [8] Undefined variable: bankpaylists C:\dev\web\app\Api\Controller\LotteryController.class.php 第 152 行.
+NOTIC: [8] Undefined index: expect C:\dev\web\app\Mobile\Controller\CommonController.class.php 第 77 行.
+NOTIC: [8] Undefined index: opencode C:\dev\web\app\Mobile\Controller\CommonController.class.php 第 78 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 43 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 44 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 5 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 7 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 7 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 8 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 13 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 7 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 10 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 3 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 10 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 11 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 5 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 3 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 7 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 9 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 14 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 3 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 5 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 6 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 9 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 3 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 8 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 3 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 12 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 7 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 13 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 11 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 14 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000244s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000275s ]
+NOTIC: [8] Use of undefined constant title - assumed 'title' C:\dev\web\Runtime\Cache\Mobile\c5d11212ea1bbb6219d4c6c45b19408a.php 第 183 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.070657s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.070726s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000401s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000608s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000659s ]
+
+[ 2023-09-27T11:22:50+08:00 ] 120.35.11.210 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000289s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000205s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000541s ]
+NOTIC: [8] Undefined index: userinfo C:\dev\web\app\Mobile\Controller\CommonController.class.php 第 6 行.
+NOTIC: [2] Creating default object from empty value C:\dev\web\app\Common\Common\function.php 第 493 行.
+NOTIC: [8] Undefined index: expect C:\dev\web\app\Mobile\Controller\CommonController.class.php 第 77 行.
+NOTIC: [8] Undefined index: opencode C:\dev\web\app\Mobile\Controller\CommonController.class.php 第 78 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 43 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 44 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\app\Mobile\Controller\PublicController.class.php 第 16 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000115s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000154s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.048909s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048948s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000164s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000274s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000295s ]
+
+[ 2023-09-27T11:23:06+08:00 ] 120.35.11.210 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000239s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000266s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000203s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000510s ]
+NOTIC: [8] Undefined index: userinfo C:\dev\web\app\Mobile\Controller\CommonController.class.php 第 6 行.
+NOTIC: [2] Creating default object from empty value C:\dev\web\app\Common\Common\function.php 第 493 行.
+
+[ 2023-09-27T11:23:31+08:00 ] 120.35.11.210 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000299s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000200s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000540s ]
+NOTIC: [8] Undefined index: userinfo C:\dev\web\app\Mobile\Controller\CommonController.class.php 第 6 行.
+NOTIC: [2] Creating default object from empty value C:\dev\web\app\Common\Common\function.php 第 493 行.
+NOTIC: [8] Undefined index: expect C:\dev\web\app\Mobile\Controller\CommonController.class.php 第 77 行.
+NOTIC: [8] Undefined index: opencode C:\dev\web\app\Mobile\Controller\CommonController.class.php 第 78 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 43 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 44 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 14 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 12 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 9 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 3 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 3 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 5 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 5 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 12 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 13 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 12 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 6 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 2 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 6 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 5 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 12 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 11 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 5 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 8 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 2 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 10 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 5 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 6 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 9 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000240s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000267s ]
+NOTIC: [8] Use of undefined constant title - assumed 'title' C:\dev\web\Runtime\Cache\Mobile\c5d11212ea1bbb6219d4c6c45b19408a.php 第 183 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.079078s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.079128s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000390s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000389s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000413s ]
+
+[ 2023-09-27T11:24:42+08:00 ] 120.35.11.210 /Apijiekou.getLottery
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000380s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000239s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000671s ]
+NOTIC: [2048] Declaration of Mobile\Controller\ApijiekouController::getLottery() should be compatible with Common\Controller\ApijiekouController::getLottery($apiparam = Array) C:\dev\web\app\Mobile\Controller\ApijiekouController.class.php 第 5 行.
+NOTIC: [2048] Declaration of Mobile\Controller\ApijiekouController::getLotterycode() should be compatible with Common\Controller\ApijiekouController::getLotterycode($apiparam = Array) C:\dev\web\app\Mobile\Controller\ApijiekouController.class.php 第 5 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 43 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 44 行.
+NOTIC: [2] array_merge(): Argument #2 is not an array C:\dev\web\app\Mobile\Controller\ApijiekouController.class.php 第 68 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\dev\web\app\Mobile\Controller\ApijiekouController.class.php 第 71 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000329s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000359s ]
+
+[ 2023-09-27T11:24:43+08:00 ] 120.35.11.210 /Apijiekou.checkislogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000243s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000162s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000448s ]
+NOTIC: [2048] Declaration of Mobile\Controller\ApijiekouController::getLottery() should be compatible with Common\Controller\ApijiekouController::getLottery($apiparam = Array) C:\dev\web\app\Mobile\Controller\ApijiekouController.class.php 第 5 行.
+NOTIC: [2048] Declaration of Mobile\Controller\ApijiekouController::getLotterycode() should be compatible with Common\Controller\ApijiekouController::getLotterycode($apiparam = Array) C:\dev\web\app\Mobile\Controller\ApijiekouController.class.php 第 5 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 43 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 44 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000253s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000275s ]
+
+[ 2023-09-27T11:24:58+08:00 ] 120.35.11.210 /Template/Mobile/images/codeJpg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+
+[ 2023-09-27T14:18:14+08:00 ] 66.249.70.109 /Apijiekou.getLottery
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000391s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000696s ]
+NOTIC: [2048] Declaration of Mobile\Controller\ApijiekouController::getLottery() should be compatible with Common\Controller\ApijiekouController::getLottery($apiparam = Array) C:\dev\web\app\Mobile\Controller\ApijiekouController.class.php 第 5 行.
+NOTIC: [2048] Declaration of Mobile\Controller\ApijiekouController::getLotterycode() should be compatible with Common\Controller\ApijiekouController::getLotterycode($apiparam = Array) C:\dev\web\app\Mobile\Controller\ApijiekouController.class.php 第 5 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 43 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 44 行.
+NOTIC: [2] array_merge(): Argument #2 is not an array C:\dev\web\app\Mobile\Controller\ApijiekouController.class.php 第 68 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\dev\web\app\Mobile\Controller\ApijiekouController.class.php 第 71 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000439s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000470s ]
+
+[ 2023-09-27T14:18:15+08:00 ] 66.249.70.110 /Apijiekou.checkislogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000245s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000160s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000442s ]
+NOTIC: [2048] Declaration of Mobile\Controller\ApijiekouController::getLottery() should be compatible with Common\Controller\ApijiekouController::getLottery($apiparam = Array) C:\dev\web\app\Mobile\Controller\ApijiekouController.class.php 第 5 行.
+NOTIC: [2048] Declaration of Mobile\Controller\ApijiekouController::getLotterycode() should be compatible with Common\Controller\ApijiekouController::getLotterycode($apiparam = Array) C:\dev\web\app\Mobile\Controller\ApijiekouController.class.php 第 5 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 43 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 44 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000371s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000399s ]
+
+[ 2023-09-27T18:41:21+08:00 ] 185.212.71.70 /wp-pano.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000302s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000193s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000541s ]
+ERR: 无法加载控制器:Wp-pano
+
+[ 2023-09-27T20:50:37+08:00 ] 45.152.46.218 /wp.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000241s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000274s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000196s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000512s ]
+ERR: 无法加载控制器:Wp
+
+[ 2023-09-27T20:59:45+08:00 ] 66.249.70.109 /Public.register.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000274s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000516s ]
+NOTIC: [8] Undefined index: userinfo C:\dev\web\app\Mobile\Controller\CommonController.class.php 第 6 行.
+NOTIC: [2] Creating default object from empty value C:\dev\web\app\Common\Common\function.php 第 493 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 43 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 44 行.
+NOTIC: [8] Undefined variable: bankpaylists C:\dev\web\app\Api\Controller\LotteryController.class.php 第 152 行.
+NOTIC: [8] Undefined index: expect C:\dev\web\app\Mobile\Controller\CommonController.class.php 第 77 行.
+NOTIC: [8] Undefined index: opencode C:\dev\web\app\Mobile\Controller\CommonController.class.php 第 78 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 43 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 44 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\app\Mobile\Controller\PublicController.class.php 第 26 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000170s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000204s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.052396s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.052464s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000395s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000419s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000444s ]
+
+[ 2023-09-27T21:55:48+08:00 ] 66.249.70.109 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000192s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000503s ]
+NOTIC: [8] Undefined index: userinfo C:\dev\web\app\Mobile\Controller\CommonController.class.php 第 6 行.
+NOTIC: [2] Creating default object from empty value C:\dev\web\app\Common\Common\function.php 第 493 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 43 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 44 行.
+NOTIC: [8] Undefined variable: bankpaylists C:\dev\web\app\Api\Controller\LotteryController.class.php 第 152 行.
+NOTIC: [8] Undefined index: expect C:\dev\web\app\Mobile\Controller\CommonController.class.php 第 77 行.
+NOTIC: [8] Undefined index: opencode C:\dev\web\app\Mobile\Controller\CommonController.class.php 第 78 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 43 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 44 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 8 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 14 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 11 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 11 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 5 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 7 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 11 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 7 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 9 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 7 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 13 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 14 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 3 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 7 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 7 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 13 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 6 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 3 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 13 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 6 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 12 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 12 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 8 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000236s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000266s ]
+NOTIC: [8] Use of undefined constant title - assumed 'title' C:\dev\web\Runtime\Cache\Mobile\c5d11212ea1bbb6219d4c6c45b19408a.php 第 183 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.068784s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.068830s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000287s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000423s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000446s ]
+
+[ 2023-09-27T21:55:51+08:00 ] 66.249.70.96 /Apijiekou.getLottery
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000265s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000188s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000489s ]
+NOTIC: [2048] Declaration of Mobile\Controller\ApijiekouController::getLottery() should be compatible with Common\Controller\ApijiekouController::getLottery($apiparam = Array) C:\dev\web\app\Mobile\Controller\ApijiekouController.class.php 第 5 行.
+NOTIC: [2048] Declaration of Mobile\Controller\ApijiekouController::getLotterycode() should be compatible with Common\Controller\ApijiekouController::getLotterycode($apiparam = Array) C:\dev\web\app\Mobile\Controller\ApijiekouController.class.php 第 5 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 43 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 44 行.
+NOTIC: [2] array_merge(): Argument #2 is not an array C:\dev\web\app\Mobile\Controller\ApijiekouController.class.php 第 68 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\dev\web\app\Mobile\Controller\ApijiekouController.class.php 第 71 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000251s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000272s ]
+
+[ 2023-09-27T21:55:51+08:00 ] 66.249.70.109 /Apijiekou.checkislogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000248s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000165s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000449s ]
+NOTIC: [2048] Declaration of Mobile\Controller\ApijiekouController::getLottery() should be compatible with Common\Controller\ApijiekouController::getLottery($apiparam = Array) C:\dev\web\app\Mobile\Controller\ApijiekouController.class.php 第 5 行.
+NOTIC: [2048] Declaration of Mobile\Controller\ApijiekouController::getLotterycode() should be compatible with Common\Controller\ApijiekouController::getLotterycode($apiparam = Array) C:\dev\web\app\Mobile\Controller\ApijiekouController.class.php 第 5 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 43 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 44 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000247s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000268s ]
+
+[ 2023-09-27T22:18:18+08:00 ] 66.249.70.96 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000283s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000193s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000517s ]
+NOTIC: [8] Undefined index: userinfo C:\dev\web\app\Mobile\Controller\CommonController.class.php 第 6 行.
+NOTIC: [2] Creating default object from empty value C:\dev\web\app\Common\Common\function.php 第 493 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 43 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 44 行.
+NOTIC: [8] Undefined variable: bankpaylists C:\dev\web\app\Api\Controller\LotteryController.class.php 第 152 行.
+NOTIC: [8] Undefined index: expect C:\dev\web\app\Mobile\Controller\CommonController.class.php 第 77 行.
+NOTIC: [8] Undefined index: opencode C:\dev\web\app\Mobile\Controller\CommonController.class.php 第 78 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 43 行.
+NOTIC: [8] Undefined index: userinfo C:\dev\web\Core\Library\Think\Controller.class.php 第 44 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 11 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 4 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 3 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 8 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 13 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 7 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 14 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 3 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 5 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 14 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 14 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 3 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 4 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 14 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 9 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 11 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 9 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 13 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 10 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 11 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 6 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 3 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 12 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 6 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 14 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+NOTIC: [8] Undefined index: face C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 99 行.
+NOTIC: [8] Undefined offset: 5 C:\dev\web\app\Mobile\Controller\IndexController.class.php 第 102 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000245s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000274s ]
+NOTIC: [8] Use of undefined constant title - assumed 'title' C:\dev\web\Runtime\Cache\Mobile\c5d11212ea1bbb6219d4c6c45b19408a.php 第 183 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.069042s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.069084s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000300s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000401s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000426s ]
+

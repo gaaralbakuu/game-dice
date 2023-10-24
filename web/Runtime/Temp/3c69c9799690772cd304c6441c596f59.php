@@ -1,0 +1,3 @@
+<?php
+//000000000300a:16:{s:2:"id";s:2:"29";s:5:"title";s:18:"后二大小单双";s:6:"typeid";s:3:"ssc";s:6:"playid";s:6:"dxdshe";s:7:"totalzs";s:2:"16";s:5:"maxjj";s:4:"8.00";s:5:"minjj";s:4:"7.20";s:7:"maxrate";s:5:"0.000";s:7:"minrate";s:5:"0.000";s:4:"rate";s:4:"0.00";s:5:"maxzs";s:2:"16";s:5:"minxf";s:4:"1.00";s:5:"maxxf";s:8:"10000.00";s:8:"maxprize";s:9:"300000.00";s:6:"remark";s:0:"";s:6:"isopen";s:1:"1";}
+?>

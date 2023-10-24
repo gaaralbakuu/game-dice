@@ -1,0 +1,3 @@
+<?php
+//000000000300a:16:{s:2:"id";s:3:"359";s:5:"title";s:12:"前四单式";s:6:"typeid";s:4:"pk10";s:6:"playid";s:13:"bjpk10qian4ds";s:7:"totalzs";s:4:"5040";s:5:"maxjj";s:6:"9979.2";s:5:"minjj";s:7:"9888.48";s:7:"maxrate";s:5:"0.000";s:7:"minrate";s:5:"0.000";s:4:"rate";s:4:"0.00";s:5:"maxzs";s:4:"5040";s:5:"minxf";s:4:"1.00";s:5:"maxxf";s:8:"10080.00";s:8:"maxprize";s:8:"30000.00";s:6:"remark";s:0:"";s:6:"isopen";s:1:"0";}
+?>

@@ -1,0 +1,3 @@
+<?php
+//000000000300a:16:{s:2:"id";s:3:"312";s:5:"title";s:18:"三星直选复式";s:6:"typeid";s:3:"dpc";s:6:"playid";s:7:"pl3zxfs";s:7:"totalzs";s:4:"1000";s:5:"maxjj";s:7:"1070.00";s:5:"minjj";s:7:"1000.00";s:7:"maxrate";s:5:"0.000";s:7:"minrate";s:5:"0.000";s:4:"rate";s:4:"0.00";s:5:"maxzs";s:4:"1000";s:5:"minxf";s:4:"1.00";s:5:"maxxf";s:8:"10000.00";s:8:"maxprize";s:8:"30000.00";s:6:"remark";s:0:"";s:6:"isopen";s:1:"1";}
+?>

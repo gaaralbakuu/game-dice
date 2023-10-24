@@ -1,0 +1,1 @@
+{"trano":"U1911031707183804","uid":"351","username":"tytyty","type":"jinji","typename":"\u664b\u7ea7\u5956\u52b1","amount":"47856.00","amountbefor":"0.00","amountafter":47856,"oddtime":1572772038,"remark":"\u664b\u7ea7\u5956\u52b1"}

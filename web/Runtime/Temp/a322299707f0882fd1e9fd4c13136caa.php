@@ -1,0 +1,3 @@
+<?php
+//000000000300a:16:{s:2:"id";s:3:"133";s:5:"title";s:9:"任选五";s:6:"typeid";s:4:"keno";s:6:"playid";s:8:"bjkl8rx5";s:7:"totalzs";s:2:"56";s:5:"maxjj";s:17:"1016.76|54.22|7.8";s:5:"minjj";s:15:"937.1|49.97|7.2";s:7:"maxrate";s:5:"0.000";s:7:"minrate";s:5:"0.000";s:4:"rate";s:4:"0.00";s:5:"maxzs";s:2:"56";s:5:"minxf";s:4:"1.00";s:5:"maxxf";s:8:"10000.00";s:8:"maxprize";s:8:"30000.00";s:6:"remark";s:0:"";s:6:"isopen";s:1:"1";}
+?>

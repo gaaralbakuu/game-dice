@@ -1,0 +1,3 @@
+<?php
+//000000000180a:17:{s:2:"id";s:2:"91";s:6:"typeid";s:2:"k3";s:5:"title";s:7:"无敌3";s:6:"ftitle";s:7:"3分钟";s:9:"firsttime";s:8:"00:00:00";s:7:"endtime";s:8:"23:55:00";s:5:"qishu";s:3:"717";s:4:"name";s:4:"f1k3";s:5:"ftime";s:1:"0";s:6:"isopen";s:1:"1";s:5:"issys";s:1:"1";s:10:"closetime1";s:8:"00:00:00";s:10:"closetime2";s:8:"23:50:00";s:10:"expecttime";s:1:"1";s:4:"iswh";s:1:"0";s:7:"allsort";s:1:"1";s:9:"listorder";s:1:"1";}
+?>

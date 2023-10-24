@@ -1,0 +1,3 @@
+<?php
+//000000000060a:18:{s:7:"groupid";s:1:"7";s:9:"listorder";s:1:"6";s:11:"groupstatus";s:1:"1";s:7:"addtime";s:10:"1469113035";s:9:"groupname";s:4:"VIP7";s:7:"isagent";s:1:"0";s:11:"isdefautreg";s:1:"0";s:6:"lowest";s:1:"2";s:7:"highest";s:1:"0";s:7:"fanshui";s:44:"100-2000|0.6;2000-10000|0.7;10000-200000|0.8";s:6:"touhan";s:6:"巡抚";s:10:"shengjiedu";s:6:"250000";s:11:"rifanyonglv";s:1:"0";s:12:"yuefanyonglv";s:0:"";s:4:"jjje";s:4:"1688";s:6:"tiaoji";s:4:"2080";s:7:"configs";s:0:"";s:5:"level";s:1:"0";}
+?>

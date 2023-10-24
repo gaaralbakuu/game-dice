@@ -1,0 +1,16 @@
+[ 2023-10-23T14:37:07+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD D:\dev\127.0.0.6\Core\Library\Think\App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI D:\dev\127.0.0.6\Core\Library\Think\Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' D:\dev\127.0.0.6\Core\Library\Think\Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001067s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000793s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002437s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD D:\dev\127.0.0.6\Core\Library\Think\App.class.php 第 136 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001018s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001098s ]
+

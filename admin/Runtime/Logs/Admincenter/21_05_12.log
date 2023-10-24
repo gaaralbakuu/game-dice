@@ -1,0 +1,3033 @@
+[ 2021-05-12T18:18:19+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002930s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004883s ]
+
+[ 2021-05-12T18:18:22+08:00 ] 113.250.227.157 /Index.index.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+
+[ 2021-05-12T18:18:22+08:00 ] 113.250.227.157 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000977s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001954s ]
+
+[ 2021-05-12T18:18:27+08:00 ] 113.250.227.157 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032227s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032227s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2021-05-12T18:18:41+08:00 ] 113.250.227.157 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006836s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006836s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:18:44+08:00 ] 113.250.227.157 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006836s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006836s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:18:49+08:00 ] 113.250.227.157 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003906s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003906s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:18:52+08:00 ] 113.250.227.157 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000976s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000976s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005859s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005859s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:19:18+08:00 ] 113.250.227.157 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000977s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009766s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009766s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000976s ]
+
+[ 2021-05-12T18:19:21+08:00 ] 113.250.227.157 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006836s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006836s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:19:40+08:00 ] 113.250.227.157 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009766s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009766s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000976s ]
+
+[ 2021-05-12T18:19:43+08:00 ] 113.250.227.157 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008789s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008789s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:22:04+08:00 ] 113.250.227.157 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2021-05-12T18:22:14+08:00 ] 113.250.227.157 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002929s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002929s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:22:17+08:00 ] 113.250.227.157 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005860s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005860s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2021-05-12T18:22:25+08:00 ] 113.250.227.157 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003906s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003906s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:22:28+08:00 ] 113.250.227.157 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005859s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005859s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2021-05-12T18:23:50+08:00 ] 113.250.227.157 /Public.login.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+
+[ 2021-05-12T18:23:50+08:00 ] 113.250.227.157 /Index.index.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000976s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019531s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019531s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2021-05-12T18:23:50+08:00 ] 113.250.227.157 /Tongji.gaikuang.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: where D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\TongjiController.class.php 第 232 行.
+NOTIC: [8] Undefined index: touzhuall D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\TongjiController.class.php 第 256 行.
+NOTIC: [8] Undefined index: zhongjiangall D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\TongjiController.class.php 第 257 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: info D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\759c46705abf5129023a1bd8578a4184.php 第 48 行.
+NOTIC: [8] Undefined variable: _sDate D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\759c46705abf5129023a1bd8578a4184.php 第 49 行.
+NOTIC: [8] Undefined variable: _eDate D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\759c46705abf5129023a1bd8578a4184.php 第 49 行.
+NOTIC: [8] Undefined variable: username D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\759c46705abf5129023a1bd8578a4184.php 第 51 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013672s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014648s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:24:00+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2021-05-12T18:24:11+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2021-05-12T18:24:20+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:24:31+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2021-05-12T18:24:40+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:24:41+08:00 ] 113.250.227.157 /System.setting.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+NOTIC: [2048] Declaration of Admincenter\Controller\SystemController::theme() should be compatible with Think\Controller::theme($theme) D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\SystemController.class.php 第 4 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: webisopen D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 67 行.
+NOTIC: [8] Undefined index: webisopen D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 68 行.
+NOTIC: [8] Undefined index: webcloseinfo D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 75 行.
+NOTIC: [8] Undefined index: switchbuy D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 82 行.
+NOTIC: [8] Undefined index: switchbuy D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 83 行.
+NOTIC: [8] Undefined index: switchdlbuy D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 90 行.
+NOTIC: [8] Undefined index: switchdlbuy D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 91 行.
+NOTIC: [8] Undefined index: switchzdbuy D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 98 行.
+NOTIC: [8] Undefined index: switchzdbuy D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 99 行.
+NOTIC: [8] Undefined index: recharge D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 106 行.
+NOTIC: [8] Undefined index: recharge D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 107 行.
+NOTIC: [8] Undefined index: yuanmoshi D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 114 行.
+NOTIC: [8] Undefined index: jiaomoshi D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 115 行.
+NOTIC: [8] Undefined index: fenmoshi D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 116 行.
+NOTIC: [8] Undefined index: limoshi D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 117 行.
+NOTIC: [8] Undefined index: touzhuMax D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 141 行.
+NOTIC: [8] Undefined index: zhongjiangMax D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 142 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025391s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025391s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:24:50+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2021-05-12T18:24:57+08:00 ] 113.250.227.157 /System.settingdo.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Admincenter\Controller\SystemController::theme() should be compatible with Think\Controller::theme($theme) D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\SystemController.class.php 第 4 行.
+NOTIC: [8] Undefined index: webtitle D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: keywords D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: description D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: fanDianMin D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: sysBankMaxNum D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: ritikuanxiane D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: tikuanstart D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: tikuanend D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: tikuannumoverbilv D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: tikuannumovermin D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: tikuannumovermax D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: kefuqq D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: kefuthree D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: islogincode D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: isemailcode D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: getemailcode D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: loginerrornum_q D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: loginerrorclosetime_q D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: ipblackisopen D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: ipblacklist D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: ipwhiteisopen D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: ipwhitelist D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: SMTP_HOST D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: SMTP_SSL D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: SMTP_PORT D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: FROM_EMAIL D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: SMTP_USER D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: FROM_NAME D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: REPLY_EMAIL D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: REPLY_NAME D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: SMTP_PASS D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: caijieapiurl D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: weballowips D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: czaudioplay D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: czaudioplaytime D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: czaudioqxtime D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: tkaudioplay D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: tkaudioplaytime D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: cardaudioplay D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+NOTIC: [8] Undefined index: defaulttjcode D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\SystemController.class.php 第 150 行.
+
+[ 2021-05-12T18:24:59+08:00 ] 113.250.227.157 /System.setting.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Admincenter\Controller\SystemController::theme() should be compatible with Think\Controller::theme($theme) D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\SystemController.class.php 第 4 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: webisopen D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 67 行.
+NOTIC: [8] Undefined index: webisopen D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 68 行.
+NOTIC: [8] Undefined index: webcloseinfo D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 75 行.
+NOTIC: [8] Undefined index: switchbuy D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 82 行.
+NOTIC: [8] Undefined index: switchbuy D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 83 行.
+NOTIC: [8] Undefined index: switchdlbuy D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 90 行.
+NOTIC: [8] Undefined index: switchdlbuy D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 91 行.
+NOTIC: [8] Undefined index: switchzdbuy D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 98 行.
+NOTIC: [8] Undefined index: switchzdbuy D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 99 行.
+NOTIC: [8] Undefined index: recharge D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 106 行.
+NOTIC: [8] Undefined index: recharge D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 107 行.
+NOTIC: [8] Undefined index: yuanmoshi D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 114 行.
+NOTIC: [8] Undefined index: jiaomoshi D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 115 行.
+NOTIC: [8] Undefined index: fenmoshi D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 116 行.
+NOTIC: [8] Undefined index: limoshi D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 117 行.
+NOTIC: [8] Undefined index: touzhuMax D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 141 行.
+NOTIC: [8] Undefined index: zhongjiangMax D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 142 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019531s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019531s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001954s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001954s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:25:00+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:25:03+08:00 ] 113.250.227.157 /Caipiao.cptype.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 35 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 35 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 35 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 35 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 35 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 35 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 35 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025391s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025391s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:25:08+08:00 ] 113.250.227.157 /Member.payset.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+NOTIC: [2] Division by zero D:\wwwroot\2222\wrqr\admin\Core\Library\Think\Page.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000976s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000976s ]
+NOTIC: [8] Undefined variable: olist D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\a2d299b87317b2ae445a68ce2ae6e7f8.php 第 76 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007812s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007812s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:25:09+08:00 ] 113.250.227.157 /Sysbank.manage.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+NOTIC: [2] Division by zero D:\wwwroot\2222\wrqr\admin\Core\Library\Think\Page.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: olist D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\2187b516c6d7c1b8fc8265d09a4d24a9.php 第 36 行.
+NOTIC: [8] Undefined variable: olist D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\2187b516c6d7c1b8fc8265d09a4d24a9.php 第 74 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008789s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008789s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:25:10+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2021-05-12T18:25:14+08:00 ] 113.250.227.157 /Member.manage.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: sDate D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\MemberController.class.php 第 103 行.
+NOTIC: [8] Undefined index: eDate D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\MemberController.class.php 第 107 行.
+NOTIC: [8] Undefined index: sAmount D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\MemberController.class.php 第 111 行.
+NOTIC: [8] Undefined index: eAmount D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\MemberController.class.php 第 115 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: groupid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 62 行.
+NOTIC: [8] Undefined variable: groupid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 62 行.
+NOTIC: [8] Undefined variable: groupid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 62 行.
+NOTIC: [8] Undefined variable: groupid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 62 行.
+NOTIC: [8] Undefined variable: groupid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 62 行.
+NOTIC: [8] Undefined variable: groupid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 62 行.
+NOTIC: [8] Undefined variable: groupid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 62 行.
+NOTIC: [8] Undefined variable: groupid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 62 行.
+NOTIC: [8] Undefined variable: groupid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 62 行.
+NOTIC: [8] Undefined variable: groupid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 62 行.
+NOTIC: [8] Undefined variable: groupid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 62 行.
+NOTIC: [8] Undefined variable: groupid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 62 行.
+NOTIC: [8] Undefined variable: groupid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 62 行.
+NOTIC: [8] Undefined variable: isonline D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 74 行.
+NOTIC: [8] Undefined variable: _sDate D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 78 行.
+NOTIC: [8] Undefined variable: _eDate D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 78 行.
+NOTIC: [8] Undefined variable: _sAmount D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 79 行.
+NOTIC: [8] Undefined variable: _eAmount D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 79 行.
+NOTIC: [8] Undefined variable: username D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 82 行.
+NOTIC: [8] Undefined variable: userbankname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 83 行.
+NOTIC: [8] Undefined variable: qq D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 84 行.
+NOTIC: [8] Undefined variable: nickname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 88 行.
+NOTIC: [8] Undefined variable: loginip D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 89 行.
+NOTIC: [8] Use of undefined constant islock - assumed 'islock' D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 146 行.
+NOTIC: [8] Use of undefined constant islock - assumed 'islock' D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 146 行.
+NOTIC: [8] Use of undefined constant islock - assumed 'islock' D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 146 行.
+NOTIC: [8] Use of undefined constant islock - assumed 'islock' D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 146 行.
+NOTIC: [8] Use of undefined constant islock - assumed 'islock' D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 146 行.
+NOTIC: [8] Use of undefined constant islock - assumed 'islock' D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 146 行.
+NOTIC: [8] Use of undefined constant islock - assumed 'islock' D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 146 行.
+NOTIC: [8] Use of undefined constant islock - assumed 'islock' D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 146 行.
+NOTIC: [8] Use of undefined constant islock - assumed 'islock' D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 146 行.
+NOTIC: [8] Use of undefined constant islock - assumed 'islock' D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 146 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018554s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018554s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:25:21+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2021-05-12T18:25:22+08:00 ] 113.250.227.157 /News.gonggao.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Division by zero D:\wwwroot\2222\wrqr\admin\Core\Library\Think\Page.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000977s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000977s ]
+NOTIC: [8] Undefined variable: moduleid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\89c8a1708b402f6f9347cde03a76b2e4.php 第 30 行.
+NOTIC: [8] Undefined variable: pageshow D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\89c8a1708b402f6f9347cde03a76b2e4.php 第 31 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:25:25+08:00 ] 113.250.227.157 /News.gonggaoedit.id.1.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006836s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006836s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:25:30+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2021-05-12T18:25:41+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2021-05-12T18:25:43+08:00 ] 113.250.227.157 /News.gonggaoedit.id.1.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+NOTIC: [8] Undefined index: validate D:\wwwroot\2222\wrqr\admin\Core\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wwwroot\2222\wrqr\admin\Core\Library\Think\Model.class.php 第 1128 行.
+
+[ 2021-05-12T18:25:45+08:00 ] 113.250.227.157 /News.gonggao.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+NOTIC: [2] Division by zero D:\wwwroot\2222\wrqr\admin\Core\Library\Think\Page.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: moduleid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\89c8a1708b402f6f9347cde03a76b2e4.php 第 30 行.
+NOTIC: [8] Undefined variable: pageshow D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\89c8a1708b402f6f9347cde03a76b2e4.php 第 31 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005859s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005859s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:25:50+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:25:55+08:00 ] 113.250.227.157 /Adminmember.chat.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007813s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007813s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:25:58+08:00 ] 113.250.227.157 /Adminmember.chat.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004882s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004882s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2021-05-12T18:26:00+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:26:01+08:00 ] 113.250.227.157 /System.setting.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+NOTIC: [2048] Declaration of Admincenter\Controller\SystemController::theme() should be compatible with Think\Controller::theme($theme) D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\SystemController.class.php 第 4 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: webisopen D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 67 行.
+NOTIC: [8] Undefined index: webisopen D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 68 行.
+NOTIC: [8] Undefined index: webcloseinfo D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 75 行.
+NOTIC: [8] Undefined index: switchbuy D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 82 行.
+NOTIC: [8] Undefined index: switchbuy D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 83 行.
+NOTIC: [8] Undefined index: switchdlbuy D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 90 行.
+NOTIC: [8] Undefined index: switchdlbuy D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 91 行.
+NOTIC: [8] Undefined index: switchzdbuy D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 98 行.
+NOTIC: [8] Undefined index: switchzdbuy D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 99 行.
+NOTIC: [8] Undefined index: recharge D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 106 行.
+NOTIC: [8] Undefined index: recharge D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 107 行.
+NOTIC: [8] Undefined index: yuanmoshi D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 114 行.
+NOTIC: [8] Undefined index: jiaomoshi D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 115 行.
+NOTIC: [8] Undefined index: fenmoshi D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 116 行.
+NOTIC: [8] Undefined index: limoshi D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 117 行.
+NOTIC: [8] Undefined index: touzhuMax D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 141 行.
+NOTIC: [8] Undefined index: zhongjiangMax D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 142 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012695s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013672s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:26:02+08:00 ] 113.250.227.157 /Caipiao.cptype.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 35 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 35 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 35 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 35 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 35 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 35 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 35 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+NOTIC: [8] Undefined variable: typeid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\9e1caef3112149d3cce9580f7e78811f.php 第 62 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022461s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022461s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:26:05+08:00 ] 113.250.227.157 /Caipiao.wanfa.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.065430s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.065430s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:26:05+08:00 ] 113.250.227.157 /Caipiao.kaijiang.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: expect D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bd8d571a2037e26bad8244e935a995a8.php 第 48 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017578s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017578s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:26:05+08:00 ] 113.250.227.157 /Game.manage.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: sDate D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\GameController.class.php 第 63 行.
+NOTIC: [8] Undefined index: eDate D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\GameController.class.php 第 67 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000976s ]
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: qihao D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 48 行.
+NOTIC: [8] Undefined variable: trano D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 49 行.
+NOTIC: [8] Undefined variable: _sDate D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 50 行.
+NOTIC: [8] Undefined variable: _eDate D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 50 行.
+NOTIC: [8] Undefined variable: username D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 52 行.
+NOTIC: [8] Undefined variable: status D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 56 行.
+NOTIC: [8] Undefined variable: status D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 57 行.
+NOTIC: [8] Undefined variable: status D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 58 行.
+NOTIC: [8] Undefined variable: listorder D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 62 行.
+NOTIC: [8] Undefined variable: listorder D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 63 行.
+NOTIC: [8] Undefined variable: listorder D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 64 行.
+NOTIC: [8] Undefined variable: listorder D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022460s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022460s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2021-05-12T18:26:06+08:00 ] 113.250.227.157 /Caipiao.yukaijiang.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\CaipiaoController.class.php on line 124 and defined D:\wwwroot\2222\wrqr\admin\Core\Library\Think\Model.class.php 第 1797 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\2222\wrqr\admin\Core\Library\Think\Model.class.php 第 1805 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\2222\wrqr\admin\Core\Library\Think\Model.class.php 第 1808 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\2222\wrqr\admin\Core\Library\Think\Model.class.php 第 1816 行.
+NOTIC: [8] Undefined variable: cjnowtime D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\CaipiaoController.class.php 第 158 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018554s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018554s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2021-05-12T18:26:06+08:00 ] 113.250.227.157 /Game.checkerrorder.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: shownum D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\GameController.class.php 第 247 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: username D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 41 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013671s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013671s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:26:10+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:26:12+08:00 ] 113.250.227.157 /System.setting.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+NOTIC: [2048] Declaration of Admincenter\Controller\SystemController::theme() should be compatible with Think\Controller::theme($theme) D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\SystemController.class.php 第 4 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: webisopen D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 67 行.
+NOTIC: [8] Undefined index: webisopen D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 68 行.
+NOTIC: [8] Undefined index: webcloseinfo D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 75 行.
+NOTIC: [8] Undefined index: switchbuy D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 82 行.
+NOTIC: [8] Undefined index: switchbuy D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 83 行.
+NOTIC: [8] Undefined index: switchdlbuy D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 90 行.
+NOTIC: [8] Undefined index: switchdlbuy D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 91 行.
+NOTIC: [8] Undefined index: switchzdbuy D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 98 行.
+NOTIC: [8] Undefined index: switchzdbuy D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 99 行.
+NOTIC: [8] Undefined index: recharge D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 106 行.
+NOTIC: [8] Undefined index: recharge D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 107 行.
+NOTIC: [8] Undefined index: yuanmoshi D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 114 行.
+NOTIC: [8] Undefined index: jiaomoshi D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 115 行.
+NOTIC: [8] Undefined index: fenmoshi D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 116 行.
+NOTIC: [8] Undefined index: limoshi D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 117 行.
+NOTIC: [8] Undefined index: touzhuMax D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 141 行.
+NOTIC: [8] Undefined index: zhongjiangMax D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 142 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013672s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013672s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:26:21+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2021-05-12T18:26:31+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:26:42+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:26:51+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2021-05-12T18:27:01+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2021-05-12T18:27:11+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002930s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2021-05-12T18:27:21+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001954s ]
+
+[ 2021-05-12T18:27:31+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:27:41+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2021-05-12T18:27:51+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:28:01+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:28:11+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2021-05-12T18:28:21+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2021-05-12T18:28:31+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:28:41+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:28:51+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:29:01+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:29:11+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2021-05-12T18:29:21+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2021-05-12T18:29:31+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2021-05-12T18:29:41+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:29:51+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:30:01+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:30:11+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:30:21+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:30:23+08:00 ] 113.250.227.157 /Index.index.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018555s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019531s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2021-05-12T18:30:23+08:00 ] 113.250.227.157 /Tongji.gaikuang.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+NOTIC: [8] Undefined variable: where D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\TongjiController.class.php 第 232 行.
+NOTIC: [8] Undefined index: touzhuall D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\TongjiController.class.php 第 256 行.
+NOTIC: [8] Undefined index: zhongjiangall D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\TongjiController.class.php 第 257 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: info D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\759c46705abf5129023a1bd8578a4184.php 第 48 行.
+NOTIC: [8] Undefined variable: _sDate D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\759c46705abf5129023a1bd8578a4184.php 第 49 行.
+NOTIC: [8] Undefined variable: _eDate D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\759c46705abf5129023a1bd8578a4184.php 第 49 行.
+NOTIC: [8] Undefined variable: username D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\759c46705abf5129023a1bd8578a4184.php 第 51 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008789s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008789s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:30:27+08:00 ] 113.250.227.157 /Member.manage.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: sDate D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\MemberController.class.php 第 103 行.
+NOTIC: [8] Undefined index: eDate D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\MemberController.class.php 第 107 行.
+NOTIC: [8] Undefined index: sAmount D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\MemberController.class.php 第 111 行.
+NOTIC: [8] Undefined index: eAmount D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\MemberController.class.php 第 115 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000976s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000976s ]
+NOTIC: [8] Undefined variable: groupid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 62 行.
+NOTIC: [8] Undefined variable: groupid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 62 行.
+NOTIC: [8] Undefined variable: groupid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 62 行.
+NOTIC: [8] Undefined variable: groupid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 62 行.
+NOTIC: [8] Undefined variable: groupid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 62 行.
+NOTIC: [8] Undefined variable: groupid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 62 行.
+NOTIC: [8] Undefined variable: groupid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 62 行.
+NOTIC: [8] Undefined variable: groupid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 62 行.
+NOTIC: [8] Undefined variable: groupid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 62 行.
+NOTIC: [8] Undefined variable: groupid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 62 行.
+NOTIC: [8] Undefined variable: groupid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 62 行.
+NOTIC: [8] Undefined variable: groupid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 62 行.
+NOTIC: [8] Undefined variable: groupid D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 62 行.
+NOTIC: [8] Undefined variable: isonline D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 74 行.
+NOTIC: [8] Undefined variable: _sDate D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 78 行.
+NOTIC: [8] Undefined variable: _eDate D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 78 行.
+NOTIC: [8] Undefined variable: _sAmount D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 79 行.
+NOTIC: [8] Undefined variable: _eAmount D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 79 行.
+NOTIC: [8] Undefined variable: username D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 82 行.
+NOTIC: [8] Undefined variable: userbankname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 83 行.
+NOTIC: [8] Undefined variable: qq D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 84 行.
+NOTIC: [8] Undefined variable: nickname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 88 行.
+NOTIC: [8] Undefined variable: loginip D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 89 行.
+NOTIC: [8] Use of undefined constant islock - assumed 'islock' D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 146 行.
+NOTIC: [8] Use of undefined constant islock - assumed 'islock' D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 146 行.
+NOTIC: [8] Use of undefined constant islock - assumed 'islock' D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 146 行.
+NOTIC: [8] Use of undefined constant islock - assumed 'islock' D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 146 行.
+NOTIC: [8] Use of undefined constant islock - assumed 'islock' D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 146 行.
+NOTIC: [8] Use of undefined constant islock - assumed 'islock' D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 146 行.
+NOTIC: [8] Use of undefined constant islock - assumed 'islock' D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 146 行.
+NOTIC: [8] Use of undefined constant islock - assumed 'islock' D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 146 行.
+NOTIC: [8] Use of undefined constant islock - assumed 'islock' D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 146 行.
+NOTIC: [8] Use of undefined constant islock - assumed 'islock' D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e622a386e054da33768b33c990e4767d.php 第 146 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017578s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017578s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2021-05-12T18:30:30+08:00 ] 113.250.227.157 /Member.useredit.id.370.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001954s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: lhcrebate D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\2a20eac98371972e56e9e219db384242.php 第 136 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007812s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007812s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2021-05-12T18:30:33+08:00 ] 113.250.227.157 /Member.balance.id.370.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007812s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007812s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:30:33+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:30:38+08:00 ] 113.250.227.157 /Member.balance.id.370.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined offset: 12 D:\wwwroot\2222\wrqr\admin\app\Common\Common\function.php 第 24 行.
+NOTIC: [8] Undefined index: trano D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\MemberController.class.php 第 482 行.
+
+[ 2021-05-12T18:30:44+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:30:54+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2021-05-12T18:31:04+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2021-05-12T18:31:14+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:31:24+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2021-05-12T18:31:35+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:31:44+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:31:54+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2021-05-12T18:32:04+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:32:14+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:32:24+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:32:34+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000977s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2021-05-12T18:32:44+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2021-05-12T18:32:54+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:33:04+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:33:12+08:00 ] 113.250.227.157 /System.setting.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Admincenter\Controller\SystemController::theme() should be compatible with Think\Controller::theme($theme) D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\SystemController.class.php 第 4 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: webisopen D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 67 行.
+NOTIC: [8] Undefined index: webisopen D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 68 行.
+NOTIC: [8] Undefined index: webcloseinfo D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 75 行.
+NOTIC: [8] Undefined index: switchbuy D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 82 行.
+NOTIC: [8] Undefined index: switchbuy D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 83 行.
+NOTIC: [8] Undefined index: switchdlbuy D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 90 行.
+NOTIC: [8] Undefined index: switchdlbuy D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 91 行.
+NOTIC: [8] Undefined index: switchzdbuy D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 98 行.
+NOTIC: [8] Undefined index: switchzdbuy D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 99 行.
+NOTIC: [8] Undefined index: recharge D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 106 行.
+NOTIC: [8] Undefined index: recharge D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 107 行.
+NOTIC: [8] Undefined index: yuanmoshi D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 114 行.
+NOTIC: [8] Undefined index: jiaomoshi D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 115 行.
+NOTIC: [8] Undefined index: fenmoshi D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 116 行.
+NOTIC: [8] Undefined index: limoshi D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 117 行.
+NOTIC: [8] Undefined index: touzhuMax D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 141 行.
+NOTIC: [8] Undefined index: zhongjiangMax D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\e2346752ba752b1b4128d368eed8cb66.php 第 142 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018555s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018555s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:33:13+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2021-05-12T18:33:23+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:33:29+08:00 ] 113.250.227.157 /Caipiao.yukaijiang.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\CaipiaoController.class.php on line 124 and defined D:\wwwroot\2222\wrqr\admin\Core\Library\Think\Model.class.php 第 1797 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\2222\wrqr\admin\Core\Library\Think\Model.class.php 第 1805 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\2222\wrqr\admin\Core\Library\Think\Model.class.php 第 1808 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\2222\wrqr\admin\Core\Library\Think\Model.class.php 第 1816 行.
+NOTIC: [8] Undefined variable: cjnowtime D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\CaipiaoController.class.php 第 158 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023437s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023437s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2021-05-12T18:33:30+08:00 ] 113.250.227.157 /Caipiao.kaijiang.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: expect D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bd8d571a2037e26bad8244e935a995a8.php 第 48 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011719s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011719s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:33:31+08:00 ] 113.250.227.157 /Game.manage.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+NOTIC: [8] Undefined index: sDate D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\GameController.class.php 第 63 行.
+NOTIC: [8] Undefined index: eDate D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\GameController.class.php 第 67 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: qihao D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 48 行.
+NOTIC: [8] Undefined variable: trano D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 49 行.
+NOTIC: [8] Undefined variable: _sDate D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 50 行.
+NOTIC: [8] Undefined variable: _eDate D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 50 行.
+NOTIC: [8] Undefined variable: username D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 52 行.
+NOTIC: [8] Undefined variable: status D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 56 行.
+NOTIC: [8] Undefined variable: status D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 57 行.
+NOTIC: [8] Undefined variable: status D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 58 行.
+NOTIC: [8] Undefined variable: listorder D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 62 行.
+NOTIC: [8] Undefined variable: listorder D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 63 行.
+NOTIC: [8] Undefined variable: listorder D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 64 行.
+NOTIC: [8] Undefined variable: listorder D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026367s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026367s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:33:33+08:00 ] 113.250.227.157 /Game.checkerrorder.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: shownum D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\GameController.class.php 第 247 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 38 行.
+NOTIC: [8] Undefined variable: username D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\0ee6407da07f2f4fdfd83a0505315049.php 第 41 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011718s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011718s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:33:33+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:33:33+08:00 ] 113.250.227.157 /Game.manage.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+NOTIC: [8] Undefined index: sDate D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\GameController.class.php 第 63 行.
+NOTIC: [8] Undefined index: eDate D:\wwwroot\2222\wrqr\admin\app\Admincenter\Controller\GameController.class.php 第 67 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: cpname D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 46 行.
+NOTIC: [8] Undefined variable: qihao D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 48 行.
+NOTIC: [8] Undefined variable: trano D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 49 行.
+NOTIC: [8] Undefined variable: _sDate D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 50 行.
+NOTIC: [8] Undefined variable: _eDate D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 50 行.
+NOTIC: [8] Undefined variable: username D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 52 行.
+NOTIC: [8] Undefined variable: status D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 56 行.
+NOTIC: [8] Undefined variable: status D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 57 行.
+NOTIC: [8] Undefined variable: status D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 58 行.
+NOTIC: [8] Undefined variable: listorder D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 62 行.
+NOTIC: [8] Undefined variable: listorder D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 63 行.
+NOTIC: [8] Undefined variable: listorder D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 64 行.
+NOTIC: [8] Undefined variable: listorder D:\wwwroot\2222\wrqr\admin\Runtime\Cache\Admincenter\bbd5f19bc685802e228669582dce9264.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017579s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017579s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2021-05-12T18:33:43+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:33:54+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2021-05-12T18:34:04+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:34:14+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2021-05-12T18:34:24+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:34:34+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:34:44+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:34:54+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:35:04+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:35:14+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2021-05-12T18:35:24+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:35:34+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:35:44+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2021-05-12T18:35:54+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2021-05-12T18:36:04+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2021-05-12T18:36:14+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:36:24+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000976s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:36:34+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2021-05-12T18:36:44+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2021-05-12T18:36:54+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2021-05-12T18:37:04+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:37:14+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:37:24+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:37:34+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:37:44+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:37:54+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2021-05-12T18:38:04+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2021-05-12T18:38:14+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:38:24+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:38:35+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2021-05-12T18:38:44+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:38:54+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2021-05-12T18:39:04+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:39:14+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2021-05-12T18:39:24+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:39:34+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2021-05-12T18:39:44+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:39:54+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:40:04+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:40:14+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:40:24+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2021-05-12T18:40:34+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:40:44+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:40:55+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:41:04+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:41:14+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000977s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2021-05-12T18:41:24+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2021-05-12T18:41:34+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2021-05-12T18:41:44+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:41:54+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:42:04+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:42:14+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2021-05-12T18:42:24+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:42:34+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:42:44+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:42:54+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:43:04+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:43:14+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:43:24+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:43:34+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2021-05-12T18:43:44+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:43:54+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2021-05-12T18:44:04+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:44:14+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:44:24+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2021-05-12T18:44:34+08:00 ] 113.250.227.157 /Index.checkspeck.do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+

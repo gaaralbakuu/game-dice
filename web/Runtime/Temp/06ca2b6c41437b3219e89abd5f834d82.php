@@ -1,0 +1,3 @@
+<?php
+//000000000300a:16:{s:2:"id";s:3:"784";s:5:"title";s:18:"冠亚和-号码12";s:6:"typeid";s:4:"pk10";s:6:"playid";s:8:"gyh_hm12";s:7:"totalzs";s:1:"1";s:5:"maxjj";s:0:"";s:5:"minjj";s:0:"";s:7:"maxrate";s:6:"10.300";s:7:"minrate";s:6:"10.300";s:4:"rate";s:5:"10.30";s:5:"maxzs";s:1:"1";s:5:"minxf";s:4:"1.00";s:5:"maxxf";s:8:"10000.00";s:8:"maxprize";s:8:"30000.00";s:6:"remark";s:1:" ";s:6:"isopen";s:1:"1";}
+?>

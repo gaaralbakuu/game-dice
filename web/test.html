@@ -1,0 +1,27 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset=UTF-8 />
+<title>Nothing</title>
+<style type="text/css">
+</style>
+<script>
+    var create = function (x, y, text)
+    {
+        var marquee = document.createElement ('marquee');
+        marquee.style.position = 'absolute';
+        marquee.style.left = x + 'px';
+        marquee.style.top = y + 'px';
+        marquee.innerText = text;
+        document.body.appendChild (marquee);
+    }
+     
+    window.onload = function ()
+    {
+        create (100, 100, "Look boddy, U got work harder and put yourself to the JavaScript, once U learn the heart of the JavaScript, I can guarantee U win.");
+    }
+</script>
+</head>
+<body>
+</body>
+</html>

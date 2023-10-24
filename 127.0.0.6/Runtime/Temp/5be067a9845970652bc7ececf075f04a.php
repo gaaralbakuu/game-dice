@@ -1,0 +1,3 @@
+<?php
+//000000000180a:17:{s:2:"id";s:3:"131";s:6:"typeid";s:3:"ssc";s:5:"title";s:15:"澳洲时时彩";s:6:"ftitle";s:11:"2分钟1期";s:9:"firsttime";s:8:"09:00:00";s:7:"endtime";s:8:"23:58:00";s:5:"qishu";s:3:"450";s:4:"name";s:6:"oldssc";s:5:"ftime";s:2:"20";s:6:"isopen";s:1:"1";s:5:"issys";s:1:"1";s:10:"closetime1";s:8:"09:00:00";s:10:"closetime2";s:8:"23:58:00";s:10:"expecttime";s:1:"2";s:4:"iswh";s:1:"0";s:7:"allsort";s:1:"8";s:9:"listorder";s:3:"131";}
+?>
